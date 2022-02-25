@@ -12,3 +12,9 @@ Layout/EmptyLinesAroundBlockBody:
 
 Layout/TrailingWhitespace:
   Enabled: false
+
+Layout/SpaceAroundBlockParameters:
+  Enabled: false
+
+Layout/FirstHashElementIndentation:
+  Enabled: false
