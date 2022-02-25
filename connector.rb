@@ -18,7 +18,7 @@
   actions: {
     list_breeds: {
       title: 'List All Cat Breeds',
-      subtitle: 'Returns all cat breeds in thecatapi',
+      subtitle: 'Returns all cat breeds from thecatapi',
       execute: lambda do |_connection, _input|
         response = get('breeds')
         breeds = []
